@@ -1,5 +1,6 @@
-# Write your MySQL query statement below
+/* Write your PL/SQL query statement below */
 
-SELECT emp_ui.unique_id, emp.name 
-FROM employeeuni emp_ui RIGHT JOIN employees emp
-ON emp.id = emp_ui.id;
+SELECT euni.unique_id, e.name
+FROM employeeUni euni RIGHT JOIN 
+     employees e
+ON euni.id=e.id;
