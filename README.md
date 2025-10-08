@@ -6,6 +6,7 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 ## 🛠️ Language
 
 - **Java**
+- **JavaScript**
 
 ## ⭐ Connect
 
