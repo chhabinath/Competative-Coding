@@ -38,6 +38,7 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/chhabinath/Competative-Coding/tree/main/1929-concatenation-of-array/) | Easy |
+| [2075-decode-the-slanted-ciphertext](https://github.com/chhabinath/Competative-Coding/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2751-robot-collisions](https://github.com/chhabinath/Competative-Coding/tree/main/2751-robot-collisions/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -47,4 +48,8 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/chhabinath/Competative-Coding/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2075-decode-the-slanted-ciphertext](https://github.com/chhabinath/Competative-Coding/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 <!---LeetCode Topics End-->
