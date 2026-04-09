@@ -27,6 +27,7 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 | [1929-concatenation-of-array](https://github.com/chhabinath/Competative-Coding/tree/main/1929-concatenation-of-array/) | Easy |
 | [2751-robot-collisions](https://github.com/chhabinath/Competative-Coding/tree/main/2751-robot-collisions/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/chhabinath/Competative-Coding/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/chhabinath/Competative-Coding/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/chhabinath/Competative-Coding/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
@@ -72,4 +73,8 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2069-walking-robot-simulation-ii](https://github.com/chhabinath/Competative-Coding/tree/main/2069-walking-robot-simulation-ii/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/chhabinath/Competative-Coding/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 <!---LeetCode Topics End-->
