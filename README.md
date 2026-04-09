@@ -79,4 +79,8 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/chhabinath/Competative-Coding/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/chhabinath/Competative-Coding/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
