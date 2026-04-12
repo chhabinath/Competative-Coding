@@ -54,6 +54,7 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/chhabinath/Competative-Coding/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/chhabinath/Competative-Coding/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/chhabinath/Competative-Coding/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Matrix
@@ -64,6 +65,7 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/chhabinath/Competative-Coding/tree/main/0657-robot-return-to-origin/) | Easy |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/chhabinath/Competative-Coding/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [2075-decode-the-slanted-ciphertext](https://github.com/chhabinath/Competative-Coding/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
