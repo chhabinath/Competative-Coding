@@ -26,6 +26,7 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 | [0485-max-consecutive-ones](https://github.com/chhabinath/Competative-Coding/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/chhabinath/Competative-Coding/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1470-shuffle-the-array](https://github.com/chhabinath/Competative-Coding/tree/main/1470-shuffle-the-array/) | Easy |
+| [1848-minimum-distance-to-the-target-element](https://github.com/chhabinath/Competative-Coding/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1929-concatenation-of-array](https://github.com/chhabinath/Competative-Coding/tree/main/1929-concatenation-of-array/) | Easy |
 | [2751-robot-collisions](https://github.com/chhabinath/Competative-Coding/tree/main/2751-robot-collisions/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/chhabinath/Competative-Coding/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
