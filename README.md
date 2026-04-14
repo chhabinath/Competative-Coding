@@ -28,6 +28,7 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 | [1470-shuffle-the-array](https://github.com/chhabinath/Competative-Coding/tree/main/1470-shuffle-the-array/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/chhabinath/Competative-Coding/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1929-concatenation-of-array](https://github.com/chhabinath/Competative-Coding/tree/main/1929-concatenation-of-array/) | Easy |
+| [2463-minimum-total-distance-traveled](https://github.com/chhabinath/Competative-Coding/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2751-robot-collisions](https://github.com/chhabinath/Competative-Coding/tree/main/2751-robot-collisions/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/chhabinath/Competative-Coding/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/chhabinath/Competative-Coding/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
@@ -41,6 +42,7 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2463-minimum-total-distance-traveled](https://github.com/chhabinath/Competative-Coding/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2751-robot-collisions](https://github.com/chhabinath/Competative-Coding/tree/main/2751-robot-collisions/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/chhabinath/Competative-Coding/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Simulation
@@ -56,6 +58,7 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/chhabinath/Competative-Coding/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
+| [2463-minimum-total-distance-traveled](https://github.com/chhabinath/Competative-Coding/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/chhabinath/Competative-Coding/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/chhabinath/Competative-Coding/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Matrix
