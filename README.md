@@ -32,6 +32,7 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/chhabinath/Competative-Coding/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2751-robot-collisions](https://github.com/chhabinath/Competative-Coding/tree/main/2751-robot-collisions/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/chhabinath/Competative-Coding/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3488-closest-equal-element-queries](https://github.com/chhabinath/Competative-Coding/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/chhabinath/Competative-Coding/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/chhabinath/Competative-Coding/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/chhabinath/Competative-Coding/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -76,11 +77,13 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3488-closest-equal-element-queries](https://github.com/chhabinath/Competative-Coding/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/chhabinath/Competative-Coding/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0874-walking-robot-simulation](https://github.com/chhabinath/Competative-Coding/tree/main/0874-walking-robot-simulation/) | Medium |
+| [3488-closest-equal-element-queries](https://github.com/chhabinath/Competative-Coding/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/chhabinath/Competative-Coding/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/chhabinath/Competative-Coding/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## Design
