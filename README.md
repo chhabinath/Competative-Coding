@@ -37,6 +37,7 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/chhabinath/Competative-Coding/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/chhabinath/Competative-Coding/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/chhabinath/Competative-Coding/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/chhabinath/Competative-Coding/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,6 +87,7 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 | [3488-closest-equal-element-queries](https://github.com/chhabinath/Competative-Coding/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/chhabinath/Competative-Coding/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/chhabinath/Competative-Coding/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/chhabinath/Competative-Coding/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,4 +100,8 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/chhabinath/Competative-Coding/tree/main/0175-combine-two-tables/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/chhabinath/Competative-Coding/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 <!---LeetCode Topics End-->
