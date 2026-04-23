@@ -34,6 +34,7 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 | [2452-words-within-two-edits-of-dictionary](https://github.com/chhabinath/Competative-Coding/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/chhabinath/Competative-Coding/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/chhabinath/Competative-Coding/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2615-sum-of-distances](https://github.com/chhabinath/Competative-Coding/tree/main/2615-sum-of-distances/) | Medium |
 | [2751-robot-collisions](https://github.com/chhabinath/Competative-Coding/tree/main/2751-robot-collisions/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/chhabinath/Competative-Coding/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/chhabinath/Competative-Coding/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -90,6 +91,7 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0874-walking-robot-simulation](https://github.com/chhabinath/Competative-Coding/tree/main/0874-walking-robot-simulation/) | Medium |
+| [2615-sum-of-distances](https://github.com/chhabinath/Competative-Coding/tree/main/2615-sum-of-distances/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/chhabinath/Competative-Coding/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/chhabinath/Competative-Coding/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/chhabinath/Competative-Coding/tree/main/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
@@ -131,4 +133,8 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/chhabinath/Competative-Coding/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2615-sum-of-distances](https://github.com/chhabinath/Competative-Coding/tree/main/2615-sum-of-distances/) | Medium |
 <!---LeetCode Topics End-->
