@@ -81,6 +81,7 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 | [2075-decode-the-slanted-ciphertext](https://github.com/chhabinath/Competative-Coding/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/chhabinath/Competative-Coding/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/chhabinath/Competative-Coding/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2833-furthest-point-from-origin](https://github.com/chhabinath/Competative-Coding/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,4 +138,8 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2615-sum-of-distances](https://github.com/chhabinath/Competative-Coding/tree/main/2615-sum-of-distances/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2833-furthest-point-from-origin](https://github.com/chhabinath/Competative-Coding/tree/main/2833-furthest-point-from-origin/) | Easy |
 <!---LeetCode Topics End-->
