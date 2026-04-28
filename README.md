@@ -32,6 +32,7 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 | [1848-minimum-distance-to-the-target-element](https://github.com/chhabinath/Competative-Coding/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/chhabinath/Competative-Coding/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1929-concatenation-of-array](https://github.com/chhabinath/Competative-Coding/tree/main/1929-concatenation-of-array/) | Easy |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/chhabinath/Competative-Coding/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/chhabinath/Competative-Coding/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/chhabinath/Competative-Coding/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/chhabinath/Competative-Coding/tree/main/2463-minimum-total-distance-traveled/) | Hard |
@@ -52,6 +53,7 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/chhabinath/Competative-Coding/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/chhabinath/Competative-Coding/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2751-robot-collisions](https://github.com/chhabinath/Competative-Coding/tree/main/2751-robot-collisions/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/chhabinath/Competative-Coding/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
@@ -76,6 +78,7 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 | ------- | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/chhabinath/Competative-Coding/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/chhabinath/Competative-Coding/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/chhabinath/Competative-Coding/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/chhabinath/Competative-Coding/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -116,6 +119,7 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/chhabinath/Competative-Coding/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/chhabinath/Competative-Coding/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/chhabinath/Competative-Coding/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Two Pointers
