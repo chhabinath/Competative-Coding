@@ -140,6 +140,7 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/chhabinath/Competative-Coding/tree/main/0061-rotate-list/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/chhabinath/Competative-Coding/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -179,4 +180,8 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/chhabinath/Competative-Coding/tree/main/0796-rotate-string/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/chhabinath/Competative-Coding/tree/main/0061-rotate-list/) | Medium |
 <!---LeetCode Topics End-->
