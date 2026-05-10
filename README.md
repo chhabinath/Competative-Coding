@@ -42,6 +42,7 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/chhabinath/Competative-Coding/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2615-sum-of-distances](https://github.com/chhabinath/Competative-Coding/tree/main/2615-sum-of-distances/) | Medium |
 | [2751-robot-collisions](https://github.com/chhabinath/Competative-Coding/tree/main/2751-robot-collisions/) | Hard |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/chhabinath/Competative-Coding/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/chhabinath/Competative-Coding/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/chhabinath/Competative-Coding/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/chhabinath/Competative-Coding/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -80,6 +81,7 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 | [0788-rotated-digits](https://github.com/chhabinath/Competative-Coding/tree/main/0788-rotated-digits/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/chhabinath/Competative-Coding/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [2463-minimum-total-distance-traveled](https://github.com/chhabinath/Competative-Coding/tree/main/2463-minimum-total-distance-traveled/) | Hard |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/chhabinath/Competative-Coding/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/chhabinath/Competative-Coding/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/chhabinath/Competative-Coding/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3660-jump-game-ix](https://github.com/chhabinath/Competative-Coding/tree/main/3660-jump-game-ix/) | Medium |
