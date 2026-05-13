@@ -30,6 +30,7 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/chhabinath/Competative-Coding/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1470-shuffle-the-array](https://github.com/chhabinath/Competative-Coding/tree/main/1470-shuffle-the-array/) | Easy |
 | [1559-detect-cycles-in-2d-grid](https://github.com/chhabinath/Competative-Coding/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/chhabinath/Competative-Coding/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/chhabinath/Competative-Coding/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/chhabinath/Competative-Coding/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/chhabinath/Competative-Coding/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -62,6 +63,7 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/chhabinath/Competative-Coding/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/chhabinath/Competative-Coding/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/chhabinath/Competative-Coding/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2751-robot-collisions](https://github.com/chhabinath/Competative-Coding/tree/main/2751-robot-collisions/) | Hard |
@@ -157,6 +159,7 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/chhabinath/Competative-Coding/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/chhabinath/Competative-Coding/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
