@@ -24,6 +24,7 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/chhabinath/Competative-Coding/tree/main/0048-rotate-image/) | Medium |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/chhabinath/Competative-Coding/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0396-rotate-function](https://github.com/chhabinath/Competative-Coding/tree/main/0396-rotate-function/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/chhabinath/Competative-Coding/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/chhabinath/Competative-Coding/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -116,6 +117,7 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/chhabinath/Competative-Coding/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/chhabinath/Competative-Coding/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/chhabinath/Competative-Coding/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/chhabinath/Competative-Coding/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
