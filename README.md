@@ -28,6 +28,7 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 | [0396-rotate-function](https://github.com/chhabinath/Competative-Coding/tree/main/0396-rotate-function/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/chhabinath/Competative-Coding/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/chhabinath/Competative-Coding/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1306-jump-game-iii](https://github.com/chhabinath/Competative-Coding/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/chhabinath/Competative-Coding/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1470-shuffle-the-array](https://github.com/chhabinath/Competative-Coding/tree/main/1470-shuffle-the-array/) | Easy |
 | [1559-detect-cycles-in-2d-grid](https://github.com/chhabinath/Competative-Coding/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -169,6 +170,7 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1306-jump-game-iii](https://github.com/chhabinath/Competative-Coding/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/chhabinath/Competative-Coding/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/chhabinath/Competative-Coding/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/chhabinath/Competative-Coding/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -195,6 +197,7 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1306-jump-game-iii](https://github.com/chhabinath/Competative-Coding/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/chhabinath/Competative-Coding/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/chhabinath/Competative-Coding/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/chhabinath/Competative-Coding/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
