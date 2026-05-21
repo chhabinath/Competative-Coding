@@ -50,6 +50,7 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 | [2751-robot-collisions](https://github.com/chhabinath/Competative-Coding/tree/main/2751-robot-collisions/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/chhabinath/Competative-Coding/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/chhabinath/Competative-Coding/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/chhabinath/Competative-Coding/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/chhabinath/Competative-Coding/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/chhabinath/Competative-Coding/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/chhabinath/Competative-Coding/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -117,6 +118,7 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 | [2452-words-within-two-edits-of-dictionary](https://github.com/chhabinath/Competative-Coding/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/chhabinath/Competative-Coding/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/chhabinath/Competative-Coding/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/chhabinath/Competative-Coding/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,6 +135,7 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 | [2615-sum-of-distances](https://github.com/chhabinath/Competative-Coding/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/chhabinath/Competative-Coding/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/chhabinath/Competative-Coding/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/chhabinath/Competative-Coding/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/chhabinath/Competative-Coding/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/chhabinath/Competative-Coding/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/chhabinath/Competative-Coding/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -188,6 +191,7 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/chhabinath/Competative-Coding/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/chhabinath/Competative-Coding/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
