@@ -30,6 +30,7 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 | [0485-max-consecutive-ones](https://github.com/chhabinath/Competative-Coding/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/chhabinath/Competative-Coding/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1306-jump-game-iii](https://github.com/chhabinath/Competative-Coding/tree/main/1306-jump-game-iii/) | Medium |
+| [1340-jump-game-v](https://github.com/chhabinath/Competative-Coding/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/chhabinath/Competative-Coding/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/chhabinath/Competative-Coding/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1470-shuffle-the-array](https://github.com/chhabinath/Competative-Coding/tree/main/1470-shuffle-the-array/) | Easy |
@@ -71,6 +72,7 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1340-jump-game-v](https://github.com/chhabinath/Competative-Coding/tree/main/1340-jump-game-v/) | Hard |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/chhabinath/Competative-Coding/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/chhabinath/Competative-Coding/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/chhabinath/Competative-Coding/tree/main/2463-minimum-total-distance-traveled/) | Hard |
@@ -92,6 +94,7 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 | [0396-rotate-function](https://github.com/chhabinath/Competative-Coding/tree/main/0396-rotate-function/) | Medium |
 | [0788-rotated-digits](https://github.com/chhabinath/Competative-Coding/tree/main/0788-rotated-digits/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/chhabinath/Competative-Coding/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
+| [1340-jump-game-v](https://github.com/chhabinath/Competative-Coding/tree/main/1340-jump-game-v/) | Hard |
 | [2463-minimum-total-distance-traveled](https://github.com/chhabinath/Competative-Coding/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/chhabinath/Competative-Coding/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/chhabinath/Competative-Coding/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
