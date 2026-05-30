@@ -55,6 +55,7 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 | [2784-check-if-array-is-good](https://github.com/chhabinath/Competative-Coding/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/chhabinath/Competative-Coding/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/chhabinath/Competative-Coding/tree/main/3093-longest-common-suffix-queries/) | Hard |
+| [3161-block-placement-queries](https://github.com/chhabinath/Competative-Coding/tree/main/3161-block-placement-queries/) | Hard |
 | [3225-maximum-score-from-grid-operations](https://github.com/chhabinath/Competative-Coding/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/chhabinath/Competative-Coding/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/chhabinath/Competative-Coding/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -136,6 +137,7 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 | [0033-search-in-rotated-sorted-array](https://github.com/chhabinath/Competative-Coding/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/chhabinath/Competative-Coding/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/chhabinath/Competative-Coding/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [3161-block-placement-queries](https://github.com/chhabinath/Competative-Coding/tree/main/3161-block-placement-queries/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/chhabinath/Competative-Coding/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/chhabinath/Competative-Coding/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Hash Table
@@ -246,4 +248,12 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1871-jump-game-vii](https://github.com/chhabinath/Competative-Coding/tree/main/1871-jump-game-vii/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3161-block-placement-queries](https://github.com/chhabinath/Competative-Coding/tree/main/3161-block-placement-queries/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3161-block-placement-queries](https://github.com/chhabinath/Competative-Coding/tree/main/3161-block-placement-queries/) | Hard |
 <!---LeetCode Topics End-->
