@@ -46,6 +46,7 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/chhabinath/Competative-Coding/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/chhabinath/Competative-Coding/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/chhabinath/Competative-Coding/tree/main/2126-destroying-asteroids/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/chhabinath/Competative-Coding/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/chhabinath/Competative-Coding/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/chhabinath/Competative-Coding/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/chhabinath/Competative-Coding/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -79,6 +80,7 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/chhabinath/Competative-Coding/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/chhabinath/Competative-Coding/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2126-destroying-asteroids](https://github.com/chhabinath/Competative-Coding/tree/main/2126-destroying-asteroids/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/chhabinath/Competative-Coding/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2463-minimum-total-distance-traveled](https://github.com/chhabinath/Competative-Coding/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2751-robot-collisions](https://github.com/chhabinath/Competative-Coding/tree/main/2751-robot-collisions/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/chhabinath/Competative-Coding/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -193,6 +195,7 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/chhabinath/Competative-Coding/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/chhabinath/Competative-Coding/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/chhabinath/Competative-Coding/tree/main/2126-destroying-asteroids/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/chhabinath/Competative-Coding/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
