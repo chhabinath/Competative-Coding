@@ -62,6 +62,7 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/chhabinath/Competative-Coding/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/chhabinath/Competative-Coding/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/chhabinath/Competative-Coding/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/chhabinath/Competative-Coding/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/chhabinath/Competative-Coding/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 | [3660-jump-game-ix](https://github.com/chhabinath/Competative-Coding/tree/main/3660-jump-game-ix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/chhabinath/Competative-Coding/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
@@ -84,6 +85,7 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 | [2463-minimum-total-distance-traveled](https://github.com/chhabinath/Competative-Coding/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2751-robot-collisions](https://github.com/chhabinath/Competative-Coding/tree/main/2751-robot-collisions/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/chhabinath/Competative-Coding/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/chhabinath/Competative-Coding/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/chhabinath/Competative-Coding/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
@@ -143,6 +145,7 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/chhabinath/Competative-Coding/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3161-block-placement-queries](https://github.com/chhabinath/Competative-Coding/tree/main/3161-block-placement-queries/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/chhabinath/Competative-Coding/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/chhabinath/Competative-Coding/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/chhabinath/Competative-Coding/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -189,6 +192,7 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 | [0061-rotate-list](https://github.com/chhabinath/Competative-Coding/tree/main/0061-rotate-list/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/chhabinath/Competative-Coding/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/chhabinath/Competative-Coding/tree/main/1861-rotating-the-box/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/chhabinath/Competative-Coding/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -196,6 +200,7 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 | [2078-two-furthest-houses-with-different-colors](https://github.com/chhabinath/Competative-Coding/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/chhabinath/Competative-Coding/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/chhabinath/Competative-Coding/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/chhabinath/Competative-Coding/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
