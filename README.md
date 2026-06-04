@@ -111,6 +111,7 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 | [3660-jump-game-ix](https://github.com/chhabinath/Competative-Coding/tree/main/3660-jump-game-ix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/chhabinath/Competative-Coding/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/chhabinath/Competative-Coding/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/chhabinath/Competative-Coding/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -184,6 +185,7 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 | [0788-rotated-digits](https://github.com/chhabinath/Competative-Coding/tree/main/0788-rotated-digits/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/chhabinath/Competative-Coding/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/chhabinath/Competative-Coding/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/chhabinath/Competative-Coding/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/chhabinath/Competative-Coding/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/chhabinath/Competative-Coding/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Two Pointers
@@ -267,4 +269,8 @@ This repository contains my solutions to **LeetCode problems**, organized by pro
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3161-block-placement-queries](https://github.com/chhabinath/Competative-Coding/tree/main/3161-block-placement-queries/) | Hard |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/chhabinath/Competative-Coding/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 <!---LeetCode Topics End-->
